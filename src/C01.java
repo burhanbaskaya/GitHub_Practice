@@ -3,5 +3,6 @@ public class C01 {
         System.out.println("Localde Merhaba");
         System.out.println("burhan branch olustu");
         System.out.println("burak beye selamlar");
+        System.out.println("selamlar");
     }
 }
